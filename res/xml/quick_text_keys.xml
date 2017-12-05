@@ -1,10 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<QuickTextKeys>
-<QuickTextKey  id="5a762f5a-d78e-42d1-880b-1fc082252c98"
+<?xml version="1.0" encoding="UTF-8"?> <QuickTextKeys> <QuickTextKey id="5a762f5a-d78e-42d1-880b-1fc082252c98"
     nameResId="@string/key_name"
     popupKeyboard="@xml/popup_keyboard"
-    keyLabel="@string/key_label"
-    keyOutputText="@string/key_default_output"
-    description="Vertical smileys"
+    description="Created by Simon Volpert"
     index="1"/>
 </QuickTextKeys>

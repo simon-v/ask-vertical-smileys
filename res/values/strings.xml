@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AnySoftKeyboard - QuickTextVerticalSmileys</string>
-	<string name="key_name">QuickTextVerticalSmileysKeyName</string>
-	<string name="key_label">(^_^)</string>
-	<string name="key_default_output">(^_^) </string>
+    <string name="app_name">AnySoftKeyboard - Vertical Smileys Quick Text</string>
+    <string name="key_name">Vertical Smileys</string>
 </resources>
